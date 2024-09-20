@@ -1,2 +1,2 @@
 Does it substitute on existing files ?
-This is for the @{{ service_name }} service
+This is for the asdf service
